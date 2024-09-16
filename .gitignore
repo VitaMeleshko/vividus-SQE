@@ -17,3 +17,6 @@ output/
 
 # macOS system files
 .DS_Store
+
+#Ignore overriding.properties
+overriging.properties
